@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mine_clicked.png</file>
+        <file>mine_hover.png</file>
+        <file>mine_normal.png</file>
+        <file>mine_explode.png</file>
+        <file>mine_flaged.png</file>
+    </qresource>
+</RCC>
