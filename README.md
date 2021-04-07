@@ -19,7 +19,7 @@ Here is an GIF shows how this application looks like:
 
 
 
-<img src="C:\Users\Wang Wei\Desktop\mine_sweeper\demo.gif" alt="demo" style="zoom:67%;" />
+<img src="demo.gif" alt="demo" style="zoom:67%;" />
 
 <div align=center> Default difficulty </div>
 
