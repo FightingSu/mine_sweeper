@@ -27,3 +27,4 @@ Here is an GIF shows how this application looks like:
 
 + System: Windows 10
 + Qt version: Qt 5.13.0
++ Compiler: MinGW 7.3.0

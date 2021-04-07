@@ -150,12 +150,12 @@ void mainWindow::getGameOver(bool _lifeStatus)
 	QPushButton* newGame = msg.addButton(QString(u8"新游戏"), QMessageBox::AcceptRole);
 
 	if (_lifeStatus) {
-		msg.setWindowTitle(QString::fromLocal8Bit("阔以"));
+        msg.setWindowTitle(QString(u8"阔以"));
 		msg.setText(QString(u8"你hin强👍"));
 		msg.exec();
 	}
 	else {
-		msg.setWindowTitle(QString::fromLocal8Bit("哦豁"));
+        msg.setWindowTitle(QString(u8"哦豁"));
 		msg.setText(QString(u8"你娃头洗白了👍"));
 		msg.exec();
 
